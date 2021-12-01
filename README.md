@@ -3,6 +3,16 @@ Popcorn Battle Armor
 
 An addition to RogueTech that reduces the armor values of all battle armor to near-tabletop values, within reason.
 
+Installation
+------------
+
+ 1. Download the repository.
+ 2. Open your Steam\steamapps\common\BATTLETECH\Mods folder
+ 3. Paste in the folders.
+ 4. Overwrite any existing JSON files.
+
+Repeat after every RogueTech update.
+
 Methodology
 -----------
 
