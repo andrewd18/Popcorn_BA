@@ -8,7 +8,7 @@ Methodology
 
  * Total armor = Armor value from sheet * Number of Units * 5
  * Armor per location = Total armor divided amongst mech locations, prioritizing arms and torso before legs and head.
- * Rear armor approx half of front armor value, rounded down to nearest 5.
+ * Rear armor approx half of front armor value, rounded down to nearest 5, max 10.
  * Structure approx half of front armor value, rounded down to nearest 5.
 
 Example
