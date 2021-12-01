@@ -155,7 +155,7 @@
       "InventorySlots": 1,
       "MaxArmor": 15,
       "MaxRearArmor": -1,
-      "InternalStructure": 10
+      "InternalStructure": 5
     },
     {
       "Location": "LeftArm",
